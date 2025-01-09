@@ -23,7 +23,7 @@ public interface QuestionSubmitService extends IService<QuestionSubmit> {
     /**
      * 题目提交
      *
-     * @param questionId
+     * @param questionSubmitAddRequest
      * @param loginUser
      * @return
      */

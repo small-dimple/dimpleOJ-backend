@@ -19,12 +19,12 @@ public class JudgeInfo implements Serializable {
     /**
      * 程序执行时间（KB）
      */
-    private String time;
+    private Long time;
 
     /**
      * 程序执行内存（KB）
      */
-    private String memory;
+    private Long memory;
 
     private static final long serialVersionUID = 1L;
 }
