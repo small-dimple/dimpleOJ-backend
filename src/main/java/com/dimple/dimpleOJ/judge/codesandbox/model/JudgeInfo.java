@@ -1,4 +1,4 @@
-package com.dimple.dimpleOJ.model.dto.questionsubmit;
+package com.dimple.dimpleOJ.judge.codesandbox.model;
 
 import lombok.Data;
 

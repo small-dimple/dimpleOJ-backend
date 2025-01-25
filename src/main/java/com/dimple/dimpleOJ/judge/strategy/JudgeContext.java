@@ -1,6 +1,6 @@
 package com.dimple.dimpleOJ.judge.strategy;
 
-import com.dimple.dimpleOJ.model.dto.questionsubmit.JudgeInfo;
+import com.dimple.dimpleOJ.judge.codesandbox.model.JudgeInfo;
 import com.dimple.dimpleOJ.model.entity.Question;
 import lombok.Data;
 

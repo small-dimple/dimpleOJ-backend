@@ -1,6 +1,5 @@
 package com.dimple.dimpleOJ.judge.codesandbox.model;
 
-import com.dimple.dimpleOJ.model.dto.questionsubmit.JudgeInfo;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

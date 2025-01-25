@@ -3,11 +3,10 @@ package com.dimple.dimpleOJ.judge.strategy;
 import cn.hutool.json.JSONUtil;
 import com.dimple.dimpleOJ.model.dto.question.JudgeCase;
 import com.dimple.dimpleOJ.model.dto.question.JudgeConfig;
-import com.dimple.dimpleOJ.model.dto.questionsubmit.JudgeInfo;
+import com.dimple.dimpleOJ.judge.codesandbox.model.JudgeInfo;
 import com.dimple.dimpleOJ.model.entity.Question;
 import com.dimple.dimpleOJ.model.enums.JudgeInfoMessageEnum;
 
-import java.util.Date;
 import java.util.List;
 
 public class DefaultJudgeStrategy implements JudgeStrategy {

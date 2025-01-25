@@ -3,7 +3,7 @@ package com.dimple.dimpleOJ.judge.codesandbox.impl;
 import com.dimple.dimpleOJ.judge.codesandbox.CodeSandbox;
 import com.dimple.dimpleOJ.judge.codesandbox.model.ExecuteCodeRequest;
 import com.dimple.dimpleOJ.judge.codesandbox.model.ExecuteCodeResponse;
-import com.dimple.dimpleOJ.model.dto.questionsubmit.JudgeInfo;
+import com.dimple.dimpleOJ.judge.codesandbox.model.JudgeInfo;
 import com.dimple.dimpleOJ.model.enums.JudgeInfoMessageEnum;
 import com.dimple.dimpleOJ.model.enums.QuestionSubmitStatusEnum;
 
